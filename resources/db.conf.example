@@ -1,0 +1,5 @@
+[Database]
+host=<host>
+port=<port>
+user=<user>
+passwd=<password>
